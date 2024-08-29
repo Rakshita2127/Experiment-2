@@ -5,9 +5,7 @@ To learn about different data types and their size and demonstration of storage 
 VS Code
 
 # Problem Statement
-1.) Write a program to show size of different data types.
-
-2.) Write a program for static class.
+Write a program to show size of different data types and to Write a program for static class.
 
 # Theory
  
@@ -60,5 +58,4 @@ return 0;
 
 # Cocnclusion
 We learnt to use _'size of'_ function & static class.
-
 We learnt about different data types and their use.
